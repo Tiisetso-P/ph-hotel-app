@@ -1,0 +1,15 @@
+.logo{
+  width: 70px;
+  border-radius: 25px;
+}
+
+.navbar h1{
+  color:"white";
+  background-color:'grey';
+  border-radius: 8px; 
+}
+
+.navbar a:hover {
+color:blue;
+
+}

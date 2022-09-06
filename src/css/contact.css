@@ -1,0 +1,43 @@
+.contact {
+  width: 1000px;
+  height: 1000px;
+  margin-top: 90px;
+  margin-left: -40px;
+}
+
+.us {
+  background-color:#D9D9D9 ;
+  text-align: center;
+  
+}
+
+.ph {
+  width: 100px;
+  margin-top: -90px;
+  margin-left: 90px;
+}
+
+.num{
+  margin-left: 100px;
+}
+
+.em {
+  width: 100px;
+  margin-left:400px;
+ margin-top: -230px;
+
+}
+
+
+.fa {
+  width: 100px;
+  margin-left:250px;
+  margin-top: -240px;
+}
+
+.in {
+  width: 100px;
+ margin-left: 1100px;
+ margin-top: -300px;
+
+}

@@ -1,0 +1,51 @@
+.Homepage {
+ 
+  width: 1294px;
+  height: 1000px;
+  margin-left: 300px;
+margin-top: -5399px;
+
+}
+
+.hm{
+  
+  color: rgb(122, 99, 99);
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 500px;
+}
+
+h2{
+  text-align: justify;
+  text-align: center;
+  color: rgb(122, 99, 99);
+}
+
+
+.par{
+background-color:#E6E8DF ;
+width: 600px;
+height: 600px;
+margin-top: -650px;
+margin-left: 650px;
+position: absolute;
+
+}
+
+.para {
+  text-align: justify;
+  text-align: center;
+  text-transform: capitalize;
+  line-height: 1.8;
+}
+
+.go {
+ width: 690px;
+ margin-top: 160px;
+
+}
+
+.mh {
+  margin-top:- 20px;
+  margin-left: -60px;
+}
